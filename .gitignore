@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Data
+.venv
+data/
+reports/
+models/
+*.wav
+*.csv
+notebooks/testes.ipynb
