@@ -14,14 +14,14 @@ Este repositorio contem o código-fonte, os scripts de processamento de audio, c
 
 ## Pré-requisitos:
 Para recriar este projeto é necessario do python 3.13+, e das principais bibliotecas listadas:
-*pandas
-*numpy
-*scikit-learn (sklearn)
-*xgboost
-*matplotlib (matplotlib.pyplot)
-*seaborn
-*itertools
-*ast
-*time
+* pandas
+* numpy
+* scikit-learn (sklearn)
+* xgboost
+* matplotlib (matplotlib.pyplot)
+* seaborn
+* itertools
+* ast
+* time
 
 Para instalar as bibliotecas utilize: pip install -r requiriments.txt
