@@ -4,7 +4,7 @@ Official repository containing the source code, feature extraction pipeline, and
 ## Project Overview
 This repository contains the source code, audio processing scripts, dataset builder, feature extraction pipeline, machine learning models, results visualization, and the testing notebooks used to generate the results for the paper submitted to SBrT 2026. The main goal of this codebase is to ensure the full reproducibility of our experiments.
 
-**Note:** This repository contains the raw research scripts and test versions used for the initial draft submission. The codebase is currently undergoing refactoring and will be fully cleaned, documented, and organized for the final camera-ready version.
+**Note:** The source code used to generate the tests will be released upon acceptance.
 
 ## Repository Structure
 * `data/`: Contains the `processed/` and `splits/` folders. The `processed/` directory holds the `.csv` files with the pre-calculated features, while `splits/` contains the metadata of the audio files used.
