@@ -1,0 +1,20 @@
+1: Rotulei os eventos de chuva de cada dataset
+	1.1: Evento começa após 30 minutos de medições consecutivas
+	1.2: Evento acaba após 3 horas consecutivas sem medições
+2: Escutei todos os áudios marcados como "no rain" de cada evento, começando 40 minutos antes do timestamp de início dele
+3: Criei uma categoria booleana chamada "wet", se áudio contém NITIDAMENTE chuva, wet=True, se o áudio não contém chuva ou contém somente o som de gotejamento wet=False
+4: Escutei todos os áudios de medições isoladas de chuva, ou seja se o pluviômetro mediu algo, mas antes e depois o total_rain = 0, escutei também os dois áudios adjacentes (10 minutos antes e 10 minutos depois da medição isolada)
+5: Rotulei os áudios da categoria wet novamente.
+
+ATENÇÃO: identifiquei problemas em gravadores de dois datasets, no Instituto Mamirauá e na Várzea alta
+
+Instituto Mamirauá: 
+SMM00894_20230602_191500_0-2_no-rain_night.wav até SMM08558_20240215_133000_0-0_no-rain_afternoon.wav
+Microfone apresenta algum problema, áudios contém um chiado muito alto
+
+Várzea alta:
+SMM11284_20240209_091000_0-0_no-rain_morning até o fim, microfone apresenta o mesmo problema
+
+SUGESTÃO
+Suprimir das análises de outlier todos os áudios onde wet=True e total_rain=0, também suprimir áudios onde wet=False e total_rain > 0
+Suprimir também os áudios com problema no microfone

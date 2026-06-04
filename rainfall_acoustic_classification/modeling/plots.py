@@ -25,7 +25,7 @@ from sklearn.preprocessing import label_binarize
 
 from rainfall_acoustic_classification.utils import get_standard_logger
 
-logger = get_standard_logger("ModelingPlots")
+logger = get_standard_logger("ModelingPlotss")
 
 
 def plot_confusion_matrix_grid(
@@ -51,39 +51,64 @@ def plot_confusion_matrix_grid(
     save_path : str, optional
         If provided, saves the figure to this filepath.
     """
-    logger.info("Generating Dual Confusion Matrix Plot...")
-    
-    fig, axes = plt.subplots(1, 2, figsize=(16, 7))
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    import numpy as np
+
+    # Pallets
     cmap_raw = sns.light_palette("navy", as_cmap=True)
     cmap_norm = sns.light_palette("darkred", as_cmap=True)
     
-    # 1. Absolute Matrix
-    sns.heatmap(
-        cm_raw, annot=True, fmt='d', cmap=cmap_raw, 
-        xticklabels=classes, yticklabels=classes, cbar=False, ax=axes[0]
-    )
-    axes[0].set_title(f"{title} (Absolute Counts)", fontsize=14)
-    axes[0].set_xlabel("Predicted Label", fontsize=12)
-    axes[0].set_ylabel("True Label", fontsize=12)
+    def _style_axis(ax, label_x, label_y, current_title):
+        # X-axis (Predicted): Ticks (class names) on the LOWER side
+        ax.xaxis.tick_bottom()
+        # Label ("Predicted Label") on the TOP
+        ax.xaxis.set_label_position('top')
+        
+        # Names on the LEFT, Label on the RIGHT
+        ax.yaxis.tick_left()
+        ax.yaxis.set_label_position('right')
+        
+        ax.set_xlabel(label_x, fontsize=10, weight='normal', labelpad=15)
+        ax.set_ylabel(label_y, fontsize=10, weight='normal', labelpad=15, rotation=270)
+        
+        ax.set_title(current_title, fontsize=10, weight='normal', pad=30)
+        
+        # Ticks adjustiment
+        ax.set_xticklabels(classes, fontsize=10, rotation=45, ha='right', weight='normal')
+        ax.set_yticklabels(classes, fontsize=10, rotation=0, weight='normal')
+
+    # --- PLOT 1: RAW COUNTS (NAVY BLUE) ---
+    fig1, ax1 = plt.subplots(figsize=(4.5, 4.5))
+    sns.heatmap(cm_raw, annot=True, fmt='d', cmap=cmap_raw, 
+                cbar=False, square=True, 
+                annot_kws={"size": 13, "weight": "normal"}, ax=ax1)
     
-    # 2. Normalized Matrix
-    sns.heatmap(
-        cm_norm, annot=True, fmt='.2f', cmap=cmap_norm, 
-        xticklabels=classes, yticklabels=classes, cbar=True, ax=axes[1]
-    )
-    axes[1].set_title(f"{title} (Row Normalized %)", fontsize=14)
-    axes[1].set_xlabel("Predicted Label", fontsize=12)
-    axes[1].set_ylabel("True Label", fontsize=12)
-    
-    plt.tight_layout()
+    _style_axis(ax1, "Predicted Label", "True Label", f"{title}\n(Absolute Counts)")
+    plt.tight_layout(pad=0.5)
     
     if save_path:
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        fig.savefig(save_path, dpi=300, bbox_inches='tight')
-        logger.info(f"Confusion matrix saved to {save_path}")
-    else:
-        plt.show()
-    plt.close(fig)
+        path_raw = save_path.replace(".png", "_raw.png")
+        fig1.savefig(path_raw, dpi=300, bbox_inches='tight')
+    plt.show()
+    plt.close(fig1)
+
+    # --- PLOT 2: NORMALIZED (DARK RED) ---
+    fig2, ax2 = plt.subplots(figsize=(4.5, 4.5))
+    annot_norm = np.array([[f"{val:.2f}" for val in row] for row in cm_norm])
+    
+    sns.heatmap(cm_norm, annot=annot_norm, fmt='', cmap=cmap_norm, 
+                cbar=False, square=True, 
+                annot_kws={"size": 11, "weight": "normal"}, ax=ax2)
+    
+    _style_axis(ax2, "Predicted Label", "True Label", f"{title}\n(Row Normalized)")
+    plt.tight_layout(pad=0.5)
+    
+    if save_path:
+        path_norm = save_path.replace(".png", "_norm.png")
+        fig2.savefig(path_norm, dpi=300, bbox_inches='tight')
+    plt.show()
+    plt.close(fig2)
 
 
 def plot_multiclass_pr_curve(

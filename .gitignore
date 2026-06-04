@@ -7,11 +7,17 @@ dist/
 build/
 *.egg-info/
 
-# Data
+# Ambientes Virtuais
 .venv
-data/
-reports/
-models/
+env/
+
+# Ficheiros Pesados a Ignorar (Obrigatório)
 *.wav
-*.csv
+*.mp3
+
+# Modelos treinados pesados (Opcional: retire se os seus ficheiros .pkl ou .h5 forem muito pequenos)
+models/
+
+# Rascunhos e Lixo
 notebooks/testes.ipynb
+.DS_Store

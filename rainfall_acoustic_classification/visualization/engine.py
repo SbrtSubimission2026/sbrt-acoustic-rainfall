@@ -87,7 +87,7 @@ class VisualizationEngine:
         self.output_path = self.config.output_dir.resolve()
         self.output_path.mkdir(parents=True, exist_ok=True)
         
-        # Aplica o estilo globalmente no momento da instanciação
+        # Apply the style globally upon initialization
         self._apply_style()
 
     def _apply_style(self) -> None:

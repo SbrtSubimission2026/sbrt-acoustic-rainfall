@@ -148,17 +148,17 @@ class AudioAugmenter:
         logs = []
         y_mod = y.copy()
         
-        # 1. Time Shift (Circular Scrolling) - Always applied for variation
+        #Time Shift (Circular Scrolling) - Always applied for variation
         shift_amt = self.rng.integers(int(len(y) * 0.1), int(len(y) * 0.9))
         y_mod = np.roll(y_mod, shift_amt)
         logs.append(f"shift={shift_amt}")
         
-        # 2. Gain Perturbation - Always applied
+        #Gain Perturbation - Always applied
         gain = self.rng.uniform(0.7, 1.2)
         y_mod = y_mod * gain
         logs.append(f"gain={gain:.2f}")
         
-        # 3. Additive Gaussian Noise - Probabilistic
+        #Additive Gaussian Noise - Probabilistic
         if self.rng.random() < self.config.noise_prob:
             max_amp = np.amax(np.abs(y_mod)) if len(y_mod) > 0 else 1.0
             noise_factor = self.rng.uniform(0.001, 0.02) 
@@ -167,7 +167,7 @@ class AudioAugmenter:
             y_mod = y_mod + noise
             logs.append(f"noise={noise_factor:.4f}")
         
-        # 4. Random Cutout - Probabilistic
+        #Random Cutout - Probabilistic
         if self.rng.random() < self.config.cutout_prob:
             zero_len = int(0.1 * self.config.sample_rate)
             if len(y_mod) > zero_len:

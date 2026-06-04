@@ -41,14 +41,14 @@ def plot_styled_donut(
     percentages = (counts / total_n) * 100
     colors = _get_normalized_palette(engine, categories)
     
-    # Construção da Legenda estilo Tabela
+    # Table style construction
     w_cat, w_per, w_rec = 10, 8, 8
     legend_labels = []
     for label, p, c in zip(categories, percentages, counts):
         row = f"{label.ljust(w_cat)} | {f'{p:.2f}%'.center(w_per)} | {str(int(c)).rjust(w_rec)}"
         legend_labels.append(row)
 
-    # Renderização (Estilo já herdado globalmente pela Engine)
+    # Rendering
     fig, ax = plt.subplots(figsize=(8, 7))
     
     wedges, _ = ax.pie(
@@ -148,7 +148,7 @@ def plot_temporal_log_distribution(
     title: str = "Temporal Rainfall Distribution (Log Scale)"
 ) -> plt.Figure:
     """Generates a horizontal bar chart of temporal distribution on a logarithmic scale."""
-    # Garante a extração exata das categorias presentes nas colunas
+    # Ensures that the categories in the columns are extracted accurately
     monthly_data = pd.crosstab(df['month_label'], df['category'], dropna=False)
     colors = _get_normalized_palette(engine, monthly_data.columns.tolist())
     
@@ -173,21 +173,55 @@ def plot_custom_matrix(
     fig, ax = plt.subplots(figsize=(10, 6))
     mask = (data == 0)
     
-    # Plot principal (dados > 0)
+    # Principal plot
     sns.heatmap(data, annot=True, fmt=fmt, cmap="YlGnBu", mask=mask,
                 linewidths=1, linecolor='#F0F0F0', cbar=False, ax=ax)
     
-    # Plot dos zeros (Fundo branco, texto cinza claro)
+    # Plot zeros
     sns.heatmap(data, annot=True, fmt=fmt, cmap=ListedColormap(['white']), 
                 mask=~mask, cbar=False, ax=ax, 
                 annot_kws={"color": "#D3D3D3"}, linewidths=1, linecolor='#F0F0F0')
     
-    # Destaque das linhas de Total
+    # Highlights from Total’s range
     ax.axhline(data.shape[0]-1, color='black', linewidth=2)
     ax.axvline(data.shape[1]-1, color='black', linewidth=2)
     
     ax.set_title(title, pad=20)
     return fig
 
+def plot_compact_confusion_matrix(
+    cm: np.ndarray, 
+    classes: List[str], 
+    title: str
+) -> plt.Figure:
+    """
+    Generates an ultra-compact confusion matrix optimized for thesis space.
+    Maximizes data-ink ratio by removing colorbars, enforcing square cells,
+    and enlarging font sizes.
+    """
+    
+    fig, ax = plt.subplots(figsize=(4.5, 4.5))
+    
+    
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
+                cbar=False,           # Remove colorbar for maximum data-ink ratio
+                square=True,          # Force square cells for better readability
+                annot_kws={"size": 14, "weight": "bold"}, # Enlarge annotation font size
+                xticklabels=classes, 
+                yticklabels=classes,
+                ax=ax)
+    
+    # Maximising label space
+    ax.set_xticklabels(ax.get_xticklabels(), fontsize=12, rotation=45, ha='right')
+    ax.set_yticklabels(ax.get_yticklabels(), fontsize=12, rotation=0)
+    
+    ax.set_ylabel('Rótulo Real', fontsize=13, weight='bold')
+    ax.set_xlabel('Predição da Cascata', fontsize=13, weight='bold')
+    ax.set_title(title, fontsize=12, pad=10)
+    
+
+    plt.tight_layout(pad=0.5)
+    
+    return fig
 if __name__ == '__main__':
     pass

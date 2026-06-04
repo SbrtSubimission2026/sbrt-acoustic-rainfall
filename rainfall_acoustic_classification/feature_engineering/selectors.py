@@ -106,8 +106,8 @@ class SingleSelectorConfig:
 
 class SafeImputer(BaseEstimator, TransformerMixin):
     """
-    Imputer blindado. Força dados para numérico float64 (C-level), 
-    higieniza infinitos, preenche com a mediana e evita bugs de tipagem do Scikit-Learn.
+    Armoured imputer. Forces data into float64 (C-level), 
+    sanitises infinite values, fills with the median, and prevents Scikit-Learn typing errors.
     """
     def fit(self, X: pd.DataFrame, y=None) -> 'SafeImputer':
         self.medians_ = {}
@@ -116,7 +116,7 @@ class SafeImputer(BaseEstimator, TransformerMixin):
 
         for col in X_work.columns:
             if X_work[col].isna().all():
-                continue # Ejeta sumariamente colunas 100% vazias
+                continue # Promptly deletes columns that are 100% empty
             self.valid_cols_.append(col)
             self.medians_[col] = X_work[col].median()
             
@@ -151,7 +151,7 @@ class SingleFeatureSelector(BaseEstimator, TransformerMixin):
 
         if y is not None:
             try:
-                # O Pulo do Gato: Calcula o Fisher Score apenas para logar no terminal
+                # Calculate the Fisher Score only for logging purposes
                 f_val, _ = f_classif(X[[self.target_feature]], y)
                 logger.info(f"Isolated '{self.target_feature}' | Fisher Score (F-Value): {f_val[0]:.2f}")
             except Exception as e:
@@ -206,9 +206,9 @@ def build_single_selector(config: Optional[SingleSelectorConfig] = None, **kwarg
 
 class VectorSelector(BaseEstimator, TransformerMixin):
     """
-    Encapsula o pipeline de seleção de features de ponta a ponta.
-    Garante a extração de métricas internas (Fisher, Gini) e a rastreabilidade 
-    dos nomes das colunas de forma autônoma e orientada a objetos.
+    Encapsulates the end-to-end feature selection pipeline.
+    Ensures the extraction of internal metrics (Fisher, Gini) and traceability 
+    of column names in an autonomous and object-oriented manner.
     """
     def __init__(self, config: Optional['VectorSelectorConfig'] = None, **kwargs: Any):
         self.config = config if config is not None else VectorSelectorConfig.from_kwargs(**kwargs)
@@ -231,10 +231,7 @@ class VectorSelector(BaseEstimator, TransformerMixin):
         self.pipeline_ = Pipeline(steps=[
             ('safe_imputer', SafeImputer()),
             ('fisher_score', SelectPercentile(score_func=f_classif, percentile=self.config.fisher_percentile)),
-            # ('zero_variance', VarianceThreshold(threshold=0.0)),
             ('scaler', StandardScaler()),
-            # ('multicollinearity', CollinearityFilter(threshold=self.config.corr_threshold)),
-            # ('rf_gini', SelectFromModel(rf, threshold='mean'))
         ])
         
         self.pipeline_.fit(X, y)
@@ -277,7 +274,7 @@ class VectorSelector(BaseEstimator, TransformerMixin):
 
     def get_metrics_report(self) -> pd.DataFrame:
         if self.feature_metrics_df_ is None:
-            raise ValueError("O seletor ainda não foi treinado. Chame .fit() primeiro.")
+            raise ValueError("The selector has not yet been trained. Call .fit() first.")
         return self.feature_metrics_df_
 
 if __name__ == '__main__':

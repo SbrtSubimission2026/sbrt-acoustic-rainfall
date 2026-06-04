@@ -56,16 +56,16 @@ def plot_correlation_heatmap(
     
     fig, ax = plt.subplots(figsize=(14, 12))
     
-    # 2. O Segredo: Remover o 'center'. 
-    # Usei 'Spectral_r' (_r de reverso) para que o 1.0 fique Vermelho e o 0.0 fique Azul.
-    # Se preferir o contrário, basta tirar o '_r'.
+    # 2. The secret: Remove the 'center'. 
+    # I used 'Spectral_r' (the '_r' stands for 'reverse') so that 1.0 is red and 0.0 is blue.
+    # If you prefer the opposite, simply remove the '_r'.
     sns.heatmap(
         corr, mask=mask, cmap='Spectral_r', vmin=0.0, vmax=1.0, 
         square=True, linewidths=.5, 
         cbar_kws={"shrink": .5, "label": "Absolute Correlation (|Pearson|)"}, ax=ax
     )
     
-    # 3. CORREÇÃO DO MATPLOTLIB: Modifica in-place iterando em cada eixo separadamente
+    # 3. Modify in-place by iterating over each axis separately
     if selected_features:
         for label in ax.get_xticklabels():
             if label.get_text() in selected_features:
@@ -111,24 +111,23 @@ def plot_fisher_scores(
     """
     logger.info(f"Generating Fisher Score Plot (Top {top_n})...")
     
-    # 1. Filtra dados inválidos e pega o Top N
+    # 1. Filter out invalid data and select the top N
     df_fisher = df_tracking.dropna(subset=['Fisher_Score']).copy()
     
-    # A tabela provavelmente já vem ordenada da classe, mas ordenamos 
-    # novamente aqui por segurança antes do head(top_n)
+    # Sorting the table again, just to be on the safe side
     df_fisher = df_fisher.sort_values(by='Fisher_Score', ascending=False).head(top_n)
     
-    # 2. Configuração da Figura
+    # 2. Fig. configuration
     fig, ax = plt.subplots(figsize=(10, 8))
     sns.barplot(data=df_fisher, x='Fisher_Score', y='Feature_Name', palette='viridis', ax=ax)
     
-    # 3. Estilização
+    # 3. Styling
     ax.set_title(title, fontsize=16, pad=15)
     ax.set_xlabel("F-Value (Higher = Better Visual Separation in Boxplots)", fontsize=12)
     ax.set_ylabel("Acoustic Feature", fontsize=12)
     plt.tight_layout()
     
-    # 4. Persistência
+    # 4. Persistence
     if save_path:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         fig.savefig(save_path, dpi=300, bbox_inches='tight')
@@ -154,7 +153,7 @@ def plot_selection_rationale(
     """
     logger.info("Generating Selection Rationale Plot...")
     
-    # 1. Estruturação dos Dados
+    # 1. Data Structure
     df = pd.DataFrame({
         'Feature': feature_names,
         'Fisher': fisher_scores,
@@ -167,7 +166,7 @@ def plot_selection_rationale(
 
     fig, ax = plt.subplots(figsize=(12, 8))
 
-    # 2. Plota os Descartados (Fundo cinza)
+    # 2. Plot the Discarded
     ax.scatter(
         df_discarded['Fisher'], 
         df_discarded['Gini'], 
@@ -179,22 +178,22 @@ def plot_selection_rationale(
     )
 
     # ==============================================================================
-    # O SEGREDO DO CONTRASTE: Fatiando a paleta matematicamente
+    # Dividing the palette mathematically
     # ==============================================================================
     features_unicas = df_selected['Feature'].unique()
-    # Pega exatamente N cores com a distância máxima possível entre elas dentro do Spectral
+    # Select exactly N colours with the maximum possible distance between them within Spectral
     cores_distantes = sns.color_palette("Spectral", n_colors=len(features_unicas))
-    # Cria um dicionário amarrando cada feature à sua cor isolada
-    paleta_forcada = dict(zip(features_unicas, cores_distantes))
+    # Creates a dictionary by associating each feature with its own unique colour
+    forced_palette = dict(zip(features_unicas, cores_distantes))
     # ==============================================================================
 
-    # 3. Plota as Selecionadas usando a paleta forçada
+    # 3. Plot the selected items using the forced palette
     sns.scatterplot(
         data=df_selected, 
         x='Fisher', 
         y='Gini', 
         hue='Feature', 
-        palette=paleta_forcada, # Usa o nosso dicionário de cores extremas
+        palette=forced_palette,
         s=150, 
         edgecolor='black',
         linewidth=1,
@@ -202,7 +201,7 @@ def plot_selection_rationale(
         ax=ax
     )
 
-    # 4. Ajustes Estéticos
+    # 4. Cosmetic Adjustments
     ax.set_title(title, fontsize=16, pad=15)
     ax.set_xlabel("Fisher Score (Linear Separation)", fontsize=12)
     ax.set_ylabel("Gini Importance (Tree Split Power)", fontsize=12)

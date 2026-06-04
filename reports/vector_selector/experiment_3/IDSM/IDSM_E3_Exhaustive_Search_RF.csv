@@ -1,0 +1,1024 @@
+Tamanho,F1_Macro,Features
+6,0.6859743940671665,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6799937866914362,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6794110062688501,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6747153919581755,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6743554081570645,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6742257474899777,wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6738489639390675,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6728402543623743,wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6726972726271864,wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6724949344377553,spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6719123496783191,wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6715406646617537,wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6714004769703904,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6713857726099886,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6707453232549334,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6704076678365892,wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6701560124165511,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6687620212272165,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6686784939090764,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis
+7,0.6682391897159623,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6681887292602415,mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6681191241994413,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6679275866191061,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+7,0.6679170551776988,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6677988924940899,mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6674262304487493,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var
+7,0.6673056610329128,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6669955856217603,spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6665941178826598,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6662574171466127,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+9,0.6660178775810064,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.665811804139204,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6657969701920444,wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+8,0.6657897835267012,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6657134697068611,NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6655428769222251,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6652065631564094,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6650720665792959,wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+7,0.6647288922869492,spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6645904124835889,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6645144644302272,wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6642847162474529,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.664224109702366,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6642231451023102,wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+6,0.6641852111653069,spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6640716840236294,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.664024327971185,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.664010486719682,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6638297545283977,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.6635571187568923,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6635003958441754,mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.662736732044532,wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6626837650879066,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6625596192474482,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6625579475168456,spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6625518277671196,wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.662503861055715,wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var
+8,0.66233821992934,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6623226757100836,spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6622710364892691,wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6622214635630809,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6621709933925679,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6621100730217865,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.662006644222644,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+8,0.6619711413853839,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6618384370946893,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6617639365871074,wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+9,0.6615744748920729,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6614789146599893,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6613652294938276,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+8,0.6612849091599343,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6612685110407786,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6612588896426506,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis
+7,0.6612379505665886,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6611023889429851,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6610120794141466,wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+7,0.6609879680987147,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6609777253491418,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6609594840603665,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+8,0.6608017539108925,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6607955646715667,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+10,0.6605407383160697,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.660539421392462,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.660431927865193,spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6604083824703909,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.6603947606493163,wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6603472424126554,spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6601948695259272,wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6601087469651832,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6600572926816269,wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6600371993794025,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6600199540530626,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis
+7,0.6599738688136765,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6598747977929721,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6598648209262324,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.659827680022281,wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6598237213780924,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.659819082302005,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6598167668206337,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6598072268323337,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+8,0.6597515487596476,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.659615098588409,wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+6,0.6595593118041234,mfcc_mean + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.6593058925816664,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6592814408870481,spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6592647544954666,wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6592641397845715,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+6,0.6591979402712396,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6590748329587697,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6589855287221176,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6589457594204319,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+5,0.658900464409445,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis
+6,0.6587088751653585,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+6,0.6587052658798653,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6585818674666147,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6585431032047001,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6585407951689282,wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6584694927337987,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6584440376410081,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6584179144382658,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6583849858468755,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+4,0.6583039961724357,wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.6580010519031535,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6579014361506503,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+5,0.6578320842899403,wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+6,0.6578160631775742,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6577678885415976,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI
+6,0.657762004727957,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+6,0.6577447956066108,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+3,0.6577131092663238,wav_approx_std + mfcc_1 + wav_detail_lvl4_std
+5,0.657653545482422,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var
+6,0.6576305353140546,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.657629188898706,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+8,0.6575819629457402,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.657547283273303,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+7,0.6575443030966868,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+6,0.6574617671723332,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6574269671364987,mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6573784291250233,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+8,0.6573309062394419,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6573039957052652,wav_detail_lvl5_std + mfcc_var + wav_detail_lvl3_std
+6,0.6572989107513247,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var
+8,0.6572196572282691,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6571719922167836,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6571549963708918,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6571312282353767,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var
+9,0.6570802470788983,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6570641239300384,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+7,0.6569770445979913,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6569680817899013,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+4,0.6569482563485722,NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6569271646913635,wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6568953663630518,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+6,0.6568710604193699,wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+9,0.6568195317228772,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6568128097756571,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6567814305344456,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var
+4,0.6567285685631936,wav_detail_lvl5_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6566845547966584,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6566756262326409,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.656610355440442,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6565907251201472,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6565531695377504,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + mfcc_var
+8,0.6565320983301007,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6564785454078947,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+5,0.6564371523907659,mfcc_mean + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+7,0.6564212989911823,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6563517844613027,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI
+6,0.656274566569712,spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+9,0.656080799759838,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6560800702712412,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6560336354406446,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+9,0.6560177931797024,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6560052868342445,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6559719741603777,spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6559645627318046,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+8,0.6558087324485896,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.655745407131041,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+7,0.6556844042111065,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6555823872618529,mfcc_mean + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6555023619909146,wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6554829030992435,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6554442412420297,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6553798307389156,spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6553757261191301,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6553536288678684,wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6552892209384977,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+6,0.6552367028439852,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6551960394053491,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl3_std
+5,0.655191136084027,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var
+7,0.6550378268801627,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6549040374804354,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+4,0.6548839990075431,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis
+4,0.6548837099265595,spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.654836876932954,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6547593374629476,mfcc_mean + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6547307838529562,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6547134769686336,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6547044830243959,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+7,0.6546973515926376,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6546259868390164,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+5,0.6545332135241312,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var
+8,0.6545323106898117,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6545167386350096,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var
+5,0.6545165444980829,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + mfcc_var
+7,0.6544509658573079,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+7,0.6544349347208633,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6543987664935336,mfcc_mean + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+6,0.6543761488367297,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+5,0.6542875011436604,spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+9,0.654138585744927,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+8,0.6541127459312193,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6540722424924994,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var
+6,0.6540070595433364,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+8,0.6540015669662713,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6539805785705162,mfcc_mean + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6539792157090989,spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6539543314496291,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6539010597734858,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+7,0.6538749797306838,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6538486574045874,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var
+5,0.6537632050373483,mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6537543271548999,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.653752997968115,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+5,0.6537529373963789,spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+7,0.6537361642582895,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6536987357206359,wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6536157777582388,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6535880152488387,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+8,0.6534142771243777,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6533500090870172,spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6532837038561414,wav_approx_std + mfcc_var + wav_detail_lvl4_std
+7,0.6532656920548833,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6532620305239164,mfcc_mean + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6532243349216079,mfcc_mean + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6532103290805551,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6531793923880383,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6531178714949687,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+8,0.6529712973233596,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6529423100095415,wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+4,0.652857141684888,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1
+7,0.6528496555809146,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+6,0.6527987976632724,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.6527775256588482,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+5,0.6527123746441401,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var
+7,0.6526665793748194,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6526592425413696,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var
+8,0.6526558309609071,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+8,0.6526275018327936,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6525940915325843,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.652559629003321,mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6525202190591377,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6524563656776186,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+5,0.6524373425503612,wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.652426837799783,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+8,0.6523616545969382,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6522346701631839,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6522296886839244,mfcc_mean + wav_approx_std + mfcc_var + wav_detail_lvl4_std
+5,0.6522261423660165,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis
+6,0.6521821724035537,mfcc_mean + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6521262991515161,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6521198363957812,wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.652091002740858,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var
+8,0.652055327784063,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6520198959972512,mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+4,0.6520110726321279,spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6519440769074368,mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6519377180728261,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6519062112929348,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6518271852351278,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.6517990368835661,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6517375662452467,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI
+7,0.6516902216633147,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.6516587360738242,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6516307628490343,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6516278294744937,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6516271989846623,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6515164594972468,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.6514937692387855,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+6,0.651403230575423,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+3,0.6513499972901333,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis
+8,0.6513309349297218,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6513272756852573,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.651248144414077,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+9,0.6512469814423734,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.651195757037299,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+9,0.6511735853946377,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6511435350690483,mfcc_mean + wav_approx_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6511092394410418,mfcc_mean + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+8,0.6510489028198665,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6510083936378477,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis
+8,0.6509524403475985,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6509518962791756,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+7,0.6509250209163054,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6508603214404808,NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.6506803828718251,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6506727513862167,mfcc_mean + wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6506545418428658,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl3_std
+4,0.6506302716761738,mfcc_mean + wav_detail_lvl5_std + spec_skew + wav_detail_lvl4_std
+6,0.6506031422883279,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+8,0.6505822074795363,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6505198239434566,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+5,0.650487666876485,wav_detail_lvl5_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+8,0.6503194851840766,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6503089909791147,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6502882928259136,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.6502806253146087,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6501970548829017,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6501966641142419,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.6501631108778445,wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6500538206331402,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.6500324210481245,mfcc_mean + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6500016919374536,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6499998260999069,wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+7,0.6499885391268032,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+3,0.6499631233636084,wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl3_std
+6,0.6499473253688436,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+6,0.6499186747493597,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6498903698819369,spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6498729952510963,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+5,0.649832869325411,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var
+5,0.6498321948323273,wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+7,0.649812527675661,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6497522993605787,wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6497134027066284,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+4,0.6496076069392266,mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6495998542528586,mfcc_mean + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.649536600792927,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6495115561759629,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6495114895088326,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6494985574173295,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+8,0.6494392542344031,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.649432754458876,wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6493841315839846,mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+4,0.6493810541635185,wav_detail_lvl5_std + spec_skew + mfcc_1 + mfcc_var
+6,0.6493340285365462,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis
+8,0.6493107466490013,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6491810057375319,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+7,0.6491582815860589,mfcc_mean + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6491480676492167,mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+7,0.6491304988043824,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6490786983547407,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.6490561845528027,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var
+6,0.6490405848132185,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.649000146691872,mfcc_mean + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6489838573996368,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI
+3,0.6489419175313922,wav_approx_std + NDSI + mfcc_var
+6,0.6486829093388077,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6486290735068143,wav_approx_std + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6486014575250009,wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.648570295482817,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6485506272140661,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6484724996415433,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+8,0.6484151593570047,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6483832827096039,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6483810931163205,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6483107893764599,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6483040909024413,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6482814617673276,mfcc_mean + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6482744450868667,wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+6,0.6481492607388971,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+6,0.6480995926150909,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6480163955181214,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6479873148348665,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.6478863415273279,spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6478840206113132,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1
+7,0.6478361164336202,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+7,0.6478122334618056,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.6477654418535663,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI
+6,0.6477638039082967,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6475545206623646,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6475506441402334,wav_detail_lvl5_std + spec_kurtosis + mfcc_var
+4,0.6475165882330539,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_var
+9,0.6474747322306493,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6474736835385837,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+5,0.6473388458981593,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl3_std
+8,0.6473339253632175,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6472804216853486,wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6471491281268504,wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.647120295446252,wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6470667644878315,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6470211969093785,mfcc_mean + wav_detail_lvl5_std + NDSI + mfcc_var
+7,0.6469617736839808,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6468632751907507,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+5,0.6468121890743805,wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl4_std
+7,0.646773760950371,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6467604529745993,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+6,0.6467331309669145,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6467133564057626,mfcc_mean + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6467133344640086,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_var
+4,0.6466764009745002,NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6466415296316812,mfcc_mean + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6466023823268814,spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6464684978156903,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+4,0.6463906893862145,wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6463866139108209,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6463545806562536,wav_detail_lvl5_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6463423278320966,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+5,0.6463166094329277,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + mfcc_var
+7,0.6462702890323164,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6462460248692539,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6462126783385963,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6461809045794631,wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6461127201730977,mfcc_mean + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6461096237568387,mfcc_mean + wav_detail_lvl5_std + NDSI + wav_detail_lvl3_std
+4,0.6460711138748333,mfcc_mean + wav_approx_std + mfcc_1 + mfcc_var
+7,0.6460287372007555,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6459246270936954,spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6459006931022682,mfcc_mean + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6458856077803283,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+6,0.6458185243395078,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6457971160751554,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+7,0.6457620510849831,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6456934465571607,mfcc_mean + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.645596509132904,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+5,0.6455789541241478,wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6455636760873312,spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6455412120075661,mfcc_mean + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6454952046266945,mfcc_mean + wav_detail_lvl5_std + mfcc_var + wav_detail_lvl3_std
+6,0.645493815821965,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6453345090707704,wav_detail_lvl5_std + NDSI + spec_kurtosis + mfcc_var
+4,0.6453269068994809,spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6452461572217193,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+6,0.6451861204826266,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6451199014950637,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+6,0.6450809927831005,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+4,0.645043134096494,spec_skew + mfcc_1 + NDSI + mfcc_var
+5,0.6450192444555076,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl4_std
+6,0.6450058847728102,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.6450022889755614,mfcc_mean + wav_detail_lvl5_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+4,0.6448931305564903,wav_detail_lvl5_std + spec_skew + NDSI + mfcc_var
+5,0.6448192685382617,spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6448166995780663,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.6446631695987286,wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6446257568371732,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6446109131706866,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var
+4,0.6445268793134643,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis
+6,0.6445229724766935,wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6444833514180159,wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+5,0.6444209005141953,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var
+5,0.6443869477857656,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.644374820967124,mfcc_mean + mfcc_1 + mfcc_var
+6,0.6443577661515324,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+5,0.6442782433450749,wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6442719936160382,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6442297058095086,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6442068937683068,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6441102099240428,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+7,0.644085476058963,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+7,0.644079795331322,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+6,0.6439697226211243,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+3,0.6438646053739803,mfcc_mean + NDSI + mfcc_var
+5,0.6437558400953268,spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6437174086841079,wav_detail_lvl5_std + mfcc_1 + NDSI + spec_kurtosis
+6,0.6437107963913249,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.6436648102687582,mfcc_mean + wav_approx_std + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6436433465932695,wav_detail_lvl5_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6436432248011761,wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6435157530206387,mfcc_mean + NDSI + mfcc_var + wav_detail_lvl4_std
+5,0.6434930441255351,wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6434770529960552,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6434482927512171,wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+5,0.6434218123638628,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl3_std
+6,0.6434109235016363,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6433783672071309,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6432827143616954,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+6,0.6432554590437173,wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6431862159304887,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std
+7,0.6431672236175692,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+3,0.6431464702371539,mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6431001898433796,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+6,0.6430892519596388,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.6430192804067566,mfcc_mean + wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6429518652195977,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+5,0.6429176264558641,mfcc_mean + wav_approx_std + spec_skew + NDSI + wav_detail_lvl4_std
+4,0.6428866702279308,mfcc_mean + mfcc_1 + NDSI + wav_detail_lvl4_std
+6,0.64281703439048,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6428119410084387,mfcc_mean + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6427632163483683,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6427331245521943,wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6426860710964892,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis
+5,0.6426637512826452,mfcc_mean + wav_detail_lvl5_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6426121562378583,wav_approx_std + NDSI + spec_kurtosis + mfcc_var
+6,0.6426085742123924,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+8,0.6426046140114028,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6425784154710132,mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6425727014175816,mfcc_mean + wav_approx_std + mfcc_1 + wav_detail_lvl4_std
+6,0.6425388490072129,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6425160869218615,mfcc_mean + wav_approx_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6424668649774066,mfcc_mean + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+7,0.6423731459139294,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6423175707800031,wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+6,0.6423102103031829,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+8,0.642204125771838,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6421919777575745,mfcc_mean + spec_skew + mfcc_var + wav_detail_lvl4_std
+5,0.6421713503832133,wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+4,0.6421625871576743,wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+6,0.6421067622550647,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.642049673495369,wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+4,0.6420231701810777,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + mfcc_var
+6,0.6420180764388805,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl4_std
+4,0.6419703455443828,mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6419319051588166,mfcc_mean + wav_approx_std + NDSI + mfcc_var
+5,0.6418664690744993,mfcc_mean + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.6418566764736867,wav_detail_lvl5_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+5,0.6418298776918723,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6417849721702437,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+5,0.6417693148265372,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + mfcc_var
+7,0.6417436677121654,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6416985879224568,mfcc_mean + wav_detail_lvl5_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6416829644715505,wav_approx_std + mfcc_1 + NDSI
+5,0.6416597898581415,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI
+5,0.6416544007643801,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+8,0.641585955038156,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+3,0.6415492897980528,wav_detail_lvl5_std + spec_skew + mfcc_var
+5,0.6415126459953093,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+4,0.6414904684353582,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI
+6,0.6412856992528675,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var
+6,0.6412773541271802,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+6,0.6412727188465739,wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6412315748762416,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+8,0.6411687002756493,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6411439324282098,mfcc_mean + mfcc_1 + NDSI + mfcc_var
+6,0.6411381220594834,mfcc_mean + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6410407584737218,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.64103595015459,wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+5,0.6410025850887132,mfcc_mean + spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.640961856726064,mfcc_mean + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6409562336392813,mfcc_mean + wav_approx_std + mfcc_1 + NDSI
+7,0.6409488446971358,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6409305670681287,spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+4,0.6408509441869097,mfcc_mean + spec_skew + NDSI + wav_detail_lvl4_std
+5,0.6408436904582782,wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.640803320438596,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var
+6,0.6407462473517244,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6406490790591022,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6406474578694278,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6406359094619363,wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6405083338988986,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.640399532189633,wav_approx_std + mfcc_1 + NDSI + mfcc_var
+4,0.6403259237485993,spec_skew + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6403052236348293,wav_approx_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.64026927180528,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6401841167514116,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6401717767621827,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+5,0.6401110960915927,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+5,0.6400950002158323,wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+5,0.640056642626868,mfcc_mean + wav_detail_lvl5_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6400428289878695,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6400308150292026,mfcc_mean + wav_approx_std + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6399573225629187,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+4,0.639933426212464,NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+7,0.6398882074527126,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6398869853663608,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6398869541318882,mfcc_mean + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+7,0.63981088315013,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6397534398852162,mfcc_mean + mfcc_1 + wav_detail_lvl4_std
+6,0.639660933116412,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6396443583960851,mfcc_mean + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6395785309118465,mfcc_mean + spec_skew + mfcc_1 + NDSI + mfcc_var
+4,0.6394715840230566,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis
+5,0.6394656845767949,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis
+3,0.6394445921510455,wav_detail_lvl5_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6394392075833571,wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6393572542137842,mfcc_mean + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6393448504928653,mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+4,0.6393219886245713,NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6393073093247535,wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6392857825578907,mfcc_mean + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6392646416879713,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1
+6,0.6392555125798224,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.639227300219077,wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6392194493615931,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6391911895655751,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+5,0.6391848266784477,wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6391592373040783,wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6391113755588277,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+6,0.6390105784623596,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+6,0.6390097559022093,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+7,0.6389860847425965,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6389008433174241,wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6388796792073264,wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6388280621278335,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + mfcc_var
+3,0.638795350081737,wav_detail_lvl5_std + spec_skew + mfcc_1
+5,0.6387557914529841,mfcc_mean + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6387408070432546,mfcc_mean + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+4,0.6387398137127658,mfcc_mean + wav_approx_std + NDSI + wav_detail_lvl3_std
+4,0.638702033378287,wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+4,0.6386202256471004,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI
+7,0.6386168855580496,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.638585904331704,mfcc_mean + spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6385438912583824,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6385007976627319,mfcc_mean + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6384972528571529,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl3_std
+5,0.6384323862496869,mfcc_mean + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+3,0.6383557160685026,spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6383124401532394,wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6382609705344512,mfcc_mean + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6382556125187538,mfcc_mean + NDSI + spec_kurtosis + mfcc_var
+4,0.6382024607685761,wav_approx_std + spec_skew + NDSI + mfcc_var
+5,0.63816892924398,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl4_std
+5,0.6381214409514998,wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6381121145623425,mfcc_1 + NDSI + wav_detail_lvl4_std
+7,0.6381063796742615,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.6380661605998599,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var
+6,0.638053949550353,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl4_std
+4,0.6380432873184962,mfcc_mean + wav_detail_lvl5_std + mfcc_var + wav_detail_lvl4_std
+7,0.6379595922098605,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6378850821318769,mfcc_mean + spec_skew + NDSI + wav_detail_lvl3_std
+5,0.6378830877436938,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis
+5,0.6378102097163283,wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6377701218004637,mfcc_mean + wav_approx_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.637747144091057,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6376984072911622,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI
+4,0.6376407921652744,mfcc_mean + spec_skew + NDSI + mfcc_var
+6,0.6376244985900066,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+5,0.6376160973136626,mfcc_mean + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6375799891234195,mfcc_mean + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6375670502976825,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl4_std
+5,0.6375655554195359,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+3,0.6374701535334496,mfcc_1 + mfcc_var + wav_detail_lvl4_std
+6,0.6374284258827208,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6373784833052916,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6373748775284949,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6373598429637488,wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6370864437719403,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6369610062608658,mfcc_mean + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std
+4,0.6368748928409176,spec_skew + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6367554756971727,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6367369548351122,spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6367145655451603,wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6366915066704841,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+3,0.6365495891133846,spec_skew + NDSI + wav_detail_lvl3_std
+5,0.6364880301217017,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.636482146759284,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+6,0.6364365814507799,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6363091717170724,mfcc_mean + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6363018948218688,mfcc_mean + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6362973257903073,mfcc_mean + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6362272995535896,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6360978631059886,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+6,0.6360505910477954,mfcc_mean + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6360273318589542,mfcc_mean + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+5,0.6358690110934196,wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6358644742352255,mfcc_mean + spec_skew + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+3,0.6358405089343637,mfcc_mean + mfcc_1 + NDSI
+4,0.6357619414648182,wav_approx_std + spec_skew + NDSI + wav_detail_lvl4_std
+4,0.6357406183658523,wav_approx_std + spec_skew + mfcc_1 + NDSI
+5,0.6357291581139795,mfcc_mean + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6356684396394601,mfcc_mean + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6356610887408177,mfcc_mean + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6356185133859441,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.635587172715816,mfcc_mean + mfcc_var + wav_detail_lvl4_std
+6,0.635582042694796,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+5,0.635544670721073,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl4_std
+4,0.6355352885636061,wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl3_std
+4,0.6354446255220969,wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std
+4,0.6354314973472629,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1
+3,0.6353763976045506,mfcc_mean + mfcc_1 + wav_detail_lvl3_std
+3,0.6353483117011988,mfcc_1 + NDSI + mfcc_var
+6,0.6351221640640683,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6350872998607756,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6350613297859294,wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+3,0.6350512661032133,mfcc_mean + wav_approx_std + mfcc_var
+5,0.6347884335084806,wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std
+5,0.6347562595965632,mfcc_mean + wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6347022464788612,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6346506777154323,wav_approx_std + mfcc_1 + NDSI + wav_detail_lvl3_std
+4,0.6345892344824919,spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6345570274228242,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.634539413895985,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis
+5,0.6345218002636589,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+3,0.6345116766425986,mfcc_mean + wav_detail_lvl5_std + mfcc_1
+7,0.634499117211226,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6344870807487472,wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+6,0.6344214111194202,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+7,0.6344149237024339,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6344004568712375,mfcc_mean + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6343639143887566,wav_approx_std + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6343459529124644,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6342318354791231,wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+5,0.634209149899461,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + NDSI + mfcc_var
+3,0.6341095355919677,wav_approx_std + mfcc_1 + mfcc_var
+6,0.6341038342275492,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6340722371429465,wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6340330470883846,mfcc_mean + spec_skew + NDSI + spec_kurtosis + mfcc_var
+6,0.6340288057982414,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6339785072340821,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + mfcc_var
+4,0.6339327867954968,mfcc_mean + spec_skew + mfcc_1 + NDSI
+4,0.6338491050090134,mfcc_mean + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+5,0.6337374326673677,mfcc_mean + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6336345614244563,wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6336275979346404,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6335829624103603,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+5,0.6335601141059931,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6335558243117665,wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl3_std
+4,0.6335104558530673,mfcc_mean + mfcc_1 + NDSI + spec_kurtosis
+4,0.6334873554424332,spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6331913019183983,wav_detail_lvl5_std + wav_approx_std + NDSI + mfcc_var
+5,0.633155579395068,wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+7,0.6330694746215494,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6329433641559931,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + spec_kurtosis
+6,0.6328964379583413,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+3,0.6328296405023257,mfcc_mean + wav_detail_lvl5_std + NDSI
+6,0.6326971638484942,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+4,0.6326860851461045,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_var
+4,0.6326232527301286,wav_detail_lvl5_std + NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6325423390270692,mfcc_mean + NDSI + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+6,0.6325342530901399,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6324867728653858,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl4_std
+5,0.6324106879351838,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+5,0.6323575532990577,spec_skew + mfcc_1 + NDSI + spec_kurtosis + mfcc_var
+5,0.6321946542089716,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+5,0.6321003724536444,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl3_std
+6,0.6320325308188561,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+5,0.6319865065615572,mfcc_mean + wav_approx_std + spec_skew + NDSI + mfcc_var
+4,0.6319308884162276,mfcc_mean + wav_approx_std + NDSI + wav_detail_lvl4_std
+4,0.6319241039602411,mfcc_mean + wav_detail_lvl5_std + NDSI + spec_kurtosis
+4,0.6317037157957394,mfcc_mean + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6315978293503971,wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+3,0.63152344259167,NDSI + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6315184721912571,wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl4_std
+6,0.6314226461145926,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6313880844837769,mfcc_mean + spec_skew + mfcc_1 + NDSI + spec_kurtosis
+4,0.6312940677939263,wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6312758152845922,mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6312301275205157,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6311957989404577,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6311645409411752,mfcc_mean + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6310075178300852,mfcc_mean + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.6309720451945963,wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6309386902704086,wav_detail_lvl5_std + NDSI + spec_kurtosis + wav_detail_lvl4_std
+6,0.6309230909605705,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6309030672935518,mfcc_mean + wav_approx_std + NDSI + spec_kurtosis
+5,0.6308992841395845,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI + wav_detail_lvl3_std
+3,0.6308369071778199,mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6307550223389102,wav_approx_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6306891661477028,wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6306204499655472,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis + mfcc_var
+4,0.630620060542269,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl4_std
+4,0.6306165713799197,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl3_std
+3,0.6306075001102,wav_detail_lvl5_std + mfcc_1 + mfcc_var
+4,0.6306025109083567,mfcc_1 + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6305987882964367,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI
+5,0.630457808609272,wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6301058859175779,wav_detail_lvl5_std + NDSI + mfcc_var + wav_detail_lvl4_std
+4,0.6299329291803498,wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+4,0.6297121384216214,mfcc_mean + wav_approx_std + mfcc_1 + wav_detail_lvl3_std
+3,0.6296906072374965,mfcc_1 + NDSI + wav_detail_lvl3_std
+4,0.6296661792097267,wav_detail_lvl5_std + mfcc_1 + NDSI + mfcc_var
+3,0.6296421380832803,wav_approx_std + mfcc_1 + wav_detail_lvl3_std
+4,0.6296345896806728,wav_detail_lvl5_std + wav_approx_std + NDSI + wav_detail_lvl4_std
+6,0.6296171759971537,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6295992552820903,mfcc_mean + wav_approx_std + mfcc_var + wav_detail_lvl3_std
+5,0.6295716973620951,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+5,0.6293097574839839,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+3,0.6292823230157987,NDSI + spec_kurtosis + wav_detail_lvl3_std
+3,0.6292418705510066,spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6292411326186376,wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl4_std
+4,0.6291545931165086,wav_detail_lvl5_std + spec_skew + NDSI + wav_detail_lvl4_std
+5,0.62913887833527,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6290027536695441,wav_detail_lvl5_std + wav_approx_std + NDSI + spec_kurtosis
+5,0.628977476972894,wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl4_std
+4,0.6289462649081823,mfcc_mean + wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl4_std
+5,0.6289060663212166,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+5,0.6288898665847655,mfcc_mean + wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+3,0.6286930809223298,wav_detail_lvl5_std + wav_approx_std + mfcc_1
+5,0.6286071959601611,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+4,0.6285971896378599,wav_detail_lvl5_std + wav_approx_std + spec_skew + NDSI
+3,0.628589553389656,mfcc_mean + wav_detail_lvl5_std + mfcc_var
+4,0.6285662740094619,mfcc_mean + mfcc_1 + NDSI + wav_detail_lvl3_std
+5,0.6285657810115618,mfcc_mean + spec_skew + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6285095199715436,spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+4,0.6283884030406274,spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+4,0.6283333612122722,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + mfcc_var
+5,0.6283251021822011,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var
+4,0.6282902580282529,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl4_std
+5,0.6281753140339204,mfcc_mean + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+6,0.6281187158323873,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+4,0.6281009258927742,mfcc_mean + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6279976536109636,wav_approx_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6279455985951744,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis
+5,0.6279253912349748,wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+3,0.6278367322259795,wav_detail_lvl5_std + spec_skew + wav_detail_lvl4_std
+5,0.627817017950614,mfcc_mean + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+5,0.627677863045916,wav_detail_lvl5_std + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+3,0.6275937126560411,spec_skew + mfcc_var + wav_detail_lvl4_std
+3,0.6274763837569347,wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl4_std
+3,0.6273446897845638,wav_approx_std + spec_skew + mfcc_1
+4,0.6270491823619407,mfcc_mean + wav_approx_std + spec_skew + NDSI
+4,0.6269712674273638,wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl4_std
+6,0.6269584845610358,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+4,0.6265746189335777,spec_skew + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+4,0.6264211842067233,mfcc_mean + wav_detail_lvl5_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.626340446533711,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std
+3,0.6262001378310855,wav_detail_lvl5_std + mfcc_1 + wav_detail_lvl4_std
+3,0.6261609592655344,spec_skew + mfcc_1 + wav_detail_lvl4_std
+4,0.6261010871360988,wav_detail_lvl5_std + wav_approx_std + mfcc_var + wav_detail_lvl3_std
+5,0.6260921364340024,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+4,0.6260747000607217,mfcc_mean + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6260003183786973,mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl3_std
+5,0.625810544920045,wav_approx_std + spec_skew + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+5,0.6257652371596463,wav_approx_std + spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6257444560637652,wav_approx_std + NDSI + mfcc_var + wav_detail_lvl3_std
+4,0.6257375295416905,mfcc_mean + spec_skew + mfcc_1 + wav_detail_lvl4_std
+4,0.6257080124061664,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + mfcc_var
+3,0.6256112922664843,wav_detail_lvl5_std + NDSI + wav_detail_lvl3_std
+5,0.6255205166248057,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl3_std
+5,0.6255078425383134,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+5,0.6254611214393104,mfcc_mean + spec_skew + NDSI + spec_kurtosis + wav_detail_lvl3_std
+4,0.6253960323306789,spec_skew + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.6253817207940555,mfcc_mean + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6253040658961443,wav_approx_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.625201484075978,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + NDSI
+5,0.6251329374953383,mfcc_mean + wav_approx_std + spec_skew + NDSI + spec_kurtosis
+4,0.6250060967559288,mfcc_mean + spec_skew + mfcc_1 + mfcc_var
+5,0.6249054003120277,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+5,0.6248751821853857,wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+3,0.6248524194790248,mfcc_mean + wav_approx_std + mfcc_1
+4,0.624621151403639,mfcc_mean + wav_detail_lvl5_std + NDSI + wav_detail_lvl4_std
+5,0.6246168038777047,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + mfcc_var
+4,0.6245012655066751,wav_approx_std + mfcc_var + wav_detail_lvl3_std + wav_detail_lvl4_std
+6,0.6244621457373787,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+3,0.6244236749573544,wav_approx_std + spec_skew + NDSI
+3,0.6242445928229299,spec_skew + mfcc_1 + NDSI
+3,0.6242442846537566,mfcc_mean + mfcc_var + wav_detail_lvl3_std
+4,0.6241896045802948,wav_detail_lvl5_std + wav_approx_std + mfcc_1 + wav_detail_lvl3_std
+2,0.6241234600207665,mfcc_var + wav_detail_lvl4_std
+5,0.6240744807904925,wav_approx_std + mfcc_1 + NDSI + mfcc_var + wav_detail_lvl3_std
+3,0.6239542456145334,wav_approx_std + NDSI + wav_detail_lvl4_std
+6,0.6239255870096804,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+3,0.623797707315996,mfcc_mean + NDSI + wav_detail_lvl4_std
+3,0.623750520567075,NDSI + mfcc_var + wav_detail_lvl3_std
+3,0.6236162474993817,spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6235488368070803,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std
+5,0.6233354708845401,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+3,0.6228645798403121,mfcc_mean + mfcc_1 + spec_kurtosis
+5,0.6228056304201532,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis
+5,0.6227957715784026,mfcc_mean + wav_detail_lvl5_std + spec_skew + NDSI + spec_kurtosis
+3,0.6225860563492777,wav_detail_lvl5_std + NDSI + mfcc_var
+3,0.6225389469812963,mfcc_mean + NDSI + wav_detail_lvl3_std
+4,0.6225051063370285,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew
+5,0.6222578520003488,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl3_std
+3,0.6221781289728684,wav_detail_lvl5_std + spec_skew + wav_detail_lvl3_std
+5,0.6220589270031222,mfcc_mean + wav_approx_std + spec_skew + mfcc_var + wav_detail_lvl3_std
+3,0.6220330188216032,wav_detail_lvl5_std + mfcc_1 + NDSI
+4,0.6220082276597787,wav_approx_std + spec_kurtosis + mfcc_var + wav_detail_lvl4_std
+2,0.6218921611267605,wav_detail_lvl5_std + wav_approx_std
+3,0.6218514683687605,mfcc_mean + spec_kurtosis + mfcc_var
+4,0.6217367262206113,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl3_std
+4,0.6214019867533022,wav_approx_std + mfcc_1 + mfcc_var + wav_detail_lvl3_std
+3,0.6213023714523477,wav_approx_std + mfcc_var + wav_detail_lvl3_std
+4,0.6212161115697843,mfcc_mean + mfcc_1 + spec_kurtosis + mfcc_var
+5,0.6212109720755578,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+3,0.6211723792162966,mfcc_1 + spec_kurtosis + mfcc_var
+3,0.6211601007246161,mfcc_mean + spec_skew + mfcc_var
+4,0.6211446379544365,spec_skew + mfcc_1 + NDSI + spec_kurtosis
+4,0.6210573940517086,mfcc_mean + wav_detail_lvl5_std + spec_skew + wav_detail_lvl3_std
+4,0.6210315281840251,wav_approx_std + mfcc_1 + spec_kurtosis + mfcc_var
+4,0.6209701409416781,mfcc_mean + mfcc_1 + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6208908461486884,mfcc_mean + wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis
+4,0.6208410300090959,mfcc_mean + wav_approx_std + spec_kurtosis + mfcc_var
+3,0.6208057600415973,wav_approx_std + NDSI + wav_detail_lvl3_std
+3,0.6207565466816292,mfcc_1 + NDSI + spec_kurtosis
+4,0.6205060650450818,wav_approx_std + spec_skew + mfcc_1 + wav_detail_lvl4_std
+3,0.6204594767699867,mfcc_mean + NDSI + spec_kurtosis
+3,0.620113130482502,wav_approx_std + spec_kurtosis + mfcc_var
+2,0.6200272733667643,mfcc_mean + mfcc_1
+4,0.6200251621027031,mfcc_mean + spec_skew + mfcc_var + wav_detail_lvl3_std
+4,0.6200046282711029,wav_detail_lvl5_std + wav_approx_std + spec_skew + spec_kurtosis
+3,0.6199734898501726,wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl4_std
+3,0.6198482679002373,mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+2,0.6197853031918241,mfcc_mean + mfcc_var
+4,0.6197385773458425,mfcc_mean + spec_skew + NDSI + spec_kurtosis
+4,0.6195674428772087,mfcc_mean + spec_skew + mfcc_1 + wav_detail_lvl3_std
+4,0.6192706754606758,mfcc_mean + spec_skew + spec_kurtosis + mfcc_var
+4,0.6190159590189485,wav_detail_lvl5_std + mfcc_1 + NDSI + wav_detail_lvl4_std
+4,0.6189041395661427,wav_approx_std + mfcc_1 + spec_kurtosis + wav_detail_lvl4_std
+4,0.618024863068884,wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl3_std
+3,0.6179522957532781,wav_approx_std + spec_skew + wav_detail_lvl3_std
+3,0.6177662741421619,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis
+5,0.6177026128811848,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+5,0.6177017699128988,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+5,0.6175179462228704,mfcc_mean + wav_approx_std + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6174062903503039,mfcc_mean + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6172736832589008,spec_skew + NDSI + wav_detail_lvl4_std
+3,0.6172542637163915,NDSI + spec_kurtosis + wav_detail_lvl4_std
+2,0.6170726163152012,wav_detail_lvl5_std + spec_kurtosis
+4,0.6169553109962527,wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl4_std
+4,0.6165103352815777,spec_skew + NDSI + spec_kurtosis + wav_detail_lvl4_std
+4,0.6164612561145159,wav_detail_lvl5_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+4,0.6162321024556549,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis
+5,0.6161474231405049,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + mfcc_var
+3,0.6160566766051406,wav_detail_lvl5_std + wav_approx_std + NDSI
+3,0.6159662621686145,wav_detail_lvl5_std + wav_approx_std + mfcc_var
+3,0.6159323112482058,wav_detail_lvl5_std + mfcc_var + wav_detail_lvl4_std
+4,0.6159094652700106,spec_skew + NDSI + spec_kurtosis + mfcc_var
+3,0.6155986436871694,wav_approx_std + spec_skew + mfcc_var
+3,0.6155424928482786,spec_skew + mfcc_var + wav_detail_lvl3_std
+3,0.615522458280906,wav_detail_lvl5_std + wav_approx_std + spec_skew
+3,0.6151042241201741,wav_detail_lvl5_std + spec_skew + spec_kurtosis
+4,0.6150276907411609,wav_approx_std + spec_skew + mfcc_1 + mfcc_var
+3,0.6149979772657226,wav_approx_std + mfcc_1 + spec_kurtosis
+3,0.6148970915056253,wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl3_std
+4,0.61471035643606,mfcc_mean + mfcc_1 + spec_kurtosis + wav_detail_lvl3_std
+3,0.6146601076890355,spec_skew + NDSI + mfcc_var
+4,0.6146408865833647,mfcc_mean + spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+5,0.6143487204405289,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl4_std
+5,0.6141916515071888,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + spec_kurtosis + wav_detail_lvl4_std
+3,0.6141155371754335,wav_approx_std + NDSI + spec_kurtosis
+3,0.6140390124121458,NDSI + spec_kurtosis + mfcc_var
+3,0.6136142544675869,mfcc_mean + wav_detail_lvl5_std + spec_skew
+3,0.6129317754562846,spec_skew + mfcc_1 + wav_detail_lvl3_std
+3,0.6128020836045436,mfcc_mean + wav_approx_std + NDSI
+6,0.6123357799700079,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6119714437783141,mfcc_mean + wav_detail_lvl5_std + wav_approx_std
+3,0.6118565913385888,wav_approx_std + spec_kurtosis + wav_detail_lvl3_std
+4,0.6118011301961197,mfcc_mean + wav_approx_std + spec_skew + mfcc_1
+4,0.6117680064296481,wav_approx_std + spec_skew + NDSI + spec_kurtosis
+3,0.6116012065430088,mfcc_1 + mfcc_var + wav_detail_lvl3_std
+4,0.611338757866091,mfcc_mean + wav_approx_std + mfcc_1 + spec_kurtosis
+4,0.6109947411865504,mfcc_mean + wav_approx_std + wav_detail_lvl3_std + wav_detail_lvl4_std
+2,0.6092987809605078,wav_approx_std + mfcc_1
+4,0.6092226209481243,mfcc_mean + spec_skew + mfcc_1 + spec_kurtosis
+3,0.6091696609948715,spec_skew + wav_detail_lvl3_std + wav_detail_lvl4_std
+3,0.6090461780599552,wav_detail_lvl5_std + NDSI + spec_kurtosis
+3,0.6083854834070828,spec_skew + mfcc_1 + mfcc_var
+2,0.6080100369499399,wav_approx_std + mfcc_var
+3,0.6078539347334697,mfcc_mean + spec_skew + NDSI
+3,0.6076797948550021,wav_detail_lvl5_std + spec_kurtosis + wav_detail_lvl3_std
+4,0.6075792898417632,mfcc_mean + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6074530103261325,wav_approx_std + spec_skew + spec_kurtosis + mfcc_var
+3,0.6069387047565304,mfcc_mean + spec_skew + mfcc_1
+3,0.6068472467413072,mfcc_mean + wav_detail_lvl5_std + spec_kurtosis
+4,0.6063106440231331,wav_approx_std + spec_skew + mfcc_1 + spec_kurtosis
+4,0.6061372326664407,mfcc_mean + wav_approx_std + spec_skew + mfcc_var
+3,0.6058189253365722,mfcc_mean + wav_detail_lvl5_std + wav_detail_lvl4_std
+2,0.6049355153561766,NDSI + wav_detail_lvl3_std
+2,0.6045759701701668,wav_detail_lvl5_std + wav_detail_lvl4_std
+4,0.6045316946197558,spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.6043806878031147,spec_skew + mfcc_1 + spec_kurtosis + mfcc_var
+3,0.6041788214063838,wav_detail_lvl5_std + NDSI + wav_detail_lvl4_std
+4,0.6041777775718817,mfcc_mean + wav_approx_std + spec_skew + wav_detail_lvl3_std
+4,0.6041682630790249,wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+4,0.6040716855541352,mfcc_mean + wav_detail_lvl5_std + wav_approx_std + wav_detail_lvl4_std
+2,0.6031698667541181,wav_detail_lvl5_std + mfcc_var
+3,0.6023211684212098,wav_approx_std + spec_skew + wav_detail_lvl4_std
+4,0.6020629423768457,wav_detail_lvl5_std + wav_approx_std + spec_skew + wav_detail_lvl4_std
+2,0.6017816354367601,wav_detail_lvl5_std + mfcc_1
+3,0.6016298770716957,wav_detail_lvl5_std + spec_skew + NDSI
+2,0.6006519647792927,mfcc_1 + wav_detail_lvl4_std
+3,0.600565371658691,mfcc_mean + wav_detail_lvl3_std + wav_detail_lvl4_std
+4,0.5995266115019733,mfcc_mean + wav_detail_lvl5_std + spec_skew + spec_kurtosis
+4,0.5994643004672183,mfcc_mean + wav_approx_std + spec_kurtosis + wav_detail_lvl3_std
+5,0.5988329869528022,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+3,0.5987651954170118,mfcc_mean + wav_approx_std + wav_detail_lvl4_std
+2,0.5986035679388615,wav_detail_lvl5_std + spec_skew
+3,0.598557271380389,mfcc_mean + wav_detail_lvl5_std + wav_detail_lvl3_std
+3,0.5983283638833332,mfcc_mean + spec_kurtosis + wav_detail_lvl4_std
+3,0.5976139324251856,spec_skew + spec_kurtosis + wav_detail_lvl3_std
+4,0.5967096018041455,mfcc_mean + wav_approx_std + spec_skew + wav_detail_lvl4_std
+3,0.5957205401836437,mfcc_mean + spec_skew + wav_detail_lvl4_std
+3,0.5955718700522401,wav_approx_std + spec_kurtosis + wav_detail_lvl4_std
+2,0.5950183012132808,NDSI + wav_detail_lvl4_std
+2,0.5940899380669368,mfcc_mean + wav_detail_lvl4_std
+3,0.5940236257118882,spec_skew + spec_kurtosis + wav_detail_lvl4_std
+4,0.5923986051484917,wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+5,0.5921686364487504,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+2,0.5916697353756263,mfcc_mean + NDSI
+2,0.5910095318083752,wav_approx_std + wav_detail_lvl3_std
+2,0.5905843139936693,wav_detail_lvl5_std + wav_detail_lvl3_std
+4,0.5892400611894167,mfcc_mean + wav_approx_std + spec_kurtosis + wav_detail_lvl4_std
+5,0.5891812619137619,mfcc_mean + spec_skew + spec_kurtosis + wav_detail_lvl3_std + wav_detail_lvl4_std
+2,0.5888708880101459,wav_approx_std + wav_detail_lvl4_std
+3,0.5881528733019904,mfcc_mean + spec_kurtosis + wav_detail_lvl3_std
+2,0.5870307384242119,spec_skew + wav_detail_lvl3_std
+2,0.58657112802187,wav_approx_std + NDSI
+2,0.5862324446302207,mfcc_1 + mfcc_var
+2,0.5856870675630679,wav_detail_lvl3_std + wav_detail_lvl4_std
+2,0.5855600569840054,mfcc_1 + NDSI
+4,0.5848330842785315,mfcc_mean + spec_skew + spec_kurtosis + wav_detail_lvl4_std
+3,0.583193309116927,mfcc_mean + wav_approx_std + wav_detail_lvl3_std
+2,0.5819223863147783,spec_kurtosis + wav_detail_lvl3_std
+2,0.5807553551999391,spec_kurtosis + wav_detail_lvl4_std
+3,0.5800473505677493,mfcc_mean + spec_skew + wav_detail_lvl3_std
+2,0.5753072497276367,NDSI + mfcc_var
+2,0.5741122598834283,wav_detail_lvl5_std + NDSI
+2,0.5734399255870882,mfcc_mean + wav_detail_lvl5_std
+4,0.572330690202445,mfcc_mean + spec_skew + spec_kurtosis + wav_detail_lvl3_std
+3,0.571899891326955,mfcc_mean + wav_approx_std + spec_skew
+3,0.5659814502782112,mfcc_mean + wav_approx_std + spec_kurtosis
+4,0.5654251507082951,mfcc_mean + wav_approx_std + spec_skew + spec_kurtosis
+3,0.5636126688556833,spec_skew + spec_kurtosis + mfcc_var
+1,0.5630850176083565,wav_detail_lvl5_std
+2,0.5618308529761216,spec_skew + wav_detail_lvl4_std
+3,0.5614415102301247,mfcc_mean + spec_skew + spec_kurtosis
+3,0.5605219762919591,wav_approx_std + spec_skew + spec_kurtosis
+2,0.557735490771268,mfcc_mean + spec_skew
+2,0.5572150135215006,wav_approx_std + spec_skew
+2,0.5567526795624647,mfcc_var + wav_detail_lvl3_std
+2,0.5563612764270827,mfcc_1 + wav_detail_lvl3_std
+2,0.5542689014439656,mfcc_mean + spec_kurtosis
+2,0.5498530165669633,mfcc_mean + wav_approx_std
+3,0.5496467782214258,spec_skew + mfcc_1 + spec_kurtosis
+2,0.5493614281170176,mfcc_mean + wav_detail_lvl3_std
+2,0.548026338313258,wav_approx_std + spec_kurtosis
+1,0.5453491985575422,wav_approx_std
+1,0.5412487567330044,mfcc_mean
+2,0.5361539942513034,spec_kurtosis + mfcc_var
+2,0.5249110967785628,spec_skew + mfcc_1
+2,0.5230634041749661,mfcc_1 + spec_kurtosis
+1,0.5197241041057719,wav_detail_lvl4_std
+2,0.5137795978435233,spec_skew + mfcc_var
+1,0.455799757802511,wav_detail_lvl3_std
+3,0.425705910870293,spec_skew + NDSI + spec_kurtosis
+2,0.40388332045899444,NDSI + spec_kurtosis
+2,0.39874898102134754,spec_skew + NDSI
+1,0.38979536594462855,mfcc_1
+1,0.3856690548245943,mfcc_var
+2,0.38417730147043,spec_skew + spec_kurtosis
+1,0.35951431052390864,spec_kurtosis
+1,0.3466130671947844,spec_skew
+1,0.34431844035416737,NDSI

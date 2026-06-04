@@ -271,7 +271,7 @@ def _build_xgboost(config: ClassifierConfig) -> BaseEstimator:
 @ClassifierFactory.register("nusvc")
 def build_nusvc(config: ClassifierConfig) -> NuSVC:
     """
-    Constrói o classificador NuSVC seguindo as configurações do projeto.
+    Build the NuSVC classifier according to the project settings.
     """
     return NuSVC(
         nu=getattr(config, "nu", 0.5),              

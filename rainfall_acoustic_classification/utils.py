@@ -151,15 +151,15 @@ def parallel_pipe(
     tasks = df.to_dict('records')
     
     # =======================================================
-    # 1. EXECUTE MAP-REDUCE (JOBLIB)
-    # batch_size substitui o chunksize para o motor loky
+    # 1. RUN MAP-REDUCE
+    # batch_size replaces chunksize for the Loky engine
     # =======================================================
     raw_results = Parallel(n_jobs=safe_cores, backend='loky', batch_size=optimal_chunksize)(
         delayed(worker_func)(task) for task in tqdm(tasks, desc=desc, unit="file")
     )
     
     # =======================================================
-    # 2. FLATTEN & GC FASE 1 (Limpa resultados brutos)
+    # 2. FLATTEN & GC PHASE 1 (Clean raw results)
     # =======================================================
     all_results = []
     for result_list in raw_results:
@@ -170,7 +170,7 @@ def parallel_pipe(
     gc.collect()
     
     # =======================================================
-    # 3. DATAFRAME BUILD & GC FASE 2 (Limpa lista achatada)
+    # 3. DATAFRAME BUILD & GC PHASE 2 (Clean flattened list)
     # =======================================================
     if not all_results:
         log.warning("Parallel pipe completed, but workers returned no data.")
@@ -178,10 +178,10 @@ def parallel_pipe(
         
     total_generated = len(all_results)
     
-    # Cria a matriz tabular
+    # Creates the table
     df_out = pd.DataFrame(all_results)
     
-    # Deleta a lista de memória IMEDIATAMENTE após criar o DataFrame
+    # Delete the memory list IMMEDIATELY after creating the DataFrame
     del all_results
     gc.collect()
                 
@@ -238,7 +238,7 @@ def prepare_balanced_training_set(
     n_max = counts.max()
     majority_class = counts.idxmax()
 
-    print("📊 Intra-Class Balancing Strategy:")
+    print(" Intra-Class Balancing Strategy:")
     print(f"   -> Majority Class: '{majority_class}' with N_max = {n_max} samples.")
 
     augmented_dfs = []
