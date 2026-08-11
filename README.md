@@ -22,8 +22,9 @@ To reproduce this project, you will need **Python 3.13+** and the following main
 To install all required dependencies, simply run:
 ```bash
 pip install -r requirements.txt
+```
 
-````
 The complete list of the 102 acoustic metrics, their mathematical formulation, grouping (ecoacoustic, spectral, wavelets) are fully documented and commented directly in:
 ```bash
 rainfall_acoustic_classification/processing/acoustic_metrics.py
+```
